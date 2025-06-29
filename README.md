@@ -32,3 +32,35 @@ Since requirements are validated and documented early, it becomes easier to test
 
 ---
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured steps to ensure a shared understanding of what the system should do. Below are the five key activities:
+
+### 1. 📥 Requirement Gathering
+- Conduct interviews with stakeholders to collect information.
+- Use surveys, questionnaires, and workshops to gather input from various sources.
+- Observe end users to understand how they currently perform tasks.
+- Analyze existing documentation and systems to identify existing requirements.
+
+### 2. ✍️ Requirement Elicitation
+- Organize brainstorming sessions to explore ideas and expectations.
+- Use focus groups to dig deeper into user needs and challenges.
+- Develop prototypes to help users visualize the system and refine their requirements.
+
+### 3. 📚 Requirement Documentation
+- Create a detailed **Requirement Specification Document** covering all functionalities.
+- Write **user stories** from the perspective of the user.
+- Develop **use case diagrams** to map interactions between users and the system.
+
+### 4. 📊 Requirement Analysis and Modeling
+- Prioritize requirements based on business value and feasibility.
+- Perform feasibility analysis (technical, financial, and time-related).
+- Build models such as data flow diagrams and entity-relationship diagrams to visualize requirements.
+
+### 5. ✅ Requirement Validation
+- Review documented requirements with stakeholders to confirm accuracy and completeness.
+- Define **acceptance criteria** for each feature or requirement.
+- Create a **traceability matrix** to ensure each requirement is addressed during development and testing.
+
+---
+
