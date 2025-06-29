@@ -64,3 +64,35 @@ Requirement Analysis involves a series of structured steps to ensure a shared un
 
 ---
 
+## Types of Requirements
+
+In software development, requirements are broadly categorized into **Functional Requirements** and **Non-functional Requirements**. Understanding both is crucial for building systems that meet user needs and operate efficiently.
+
+### ⚙️ Functional Requirements
+
+**Definition:**  
+Functional requirements describe the specific behaviors, features, and functions that the system must support. They define **what** the system should do.
+
+**Examples for Booking Management System:**
+- 🔍 **Search Properties:** Users can search for properties based on filters like location, price, and availability.
+- 👤 **User Registration & Login:** Users can create accounts and log in securely.
+- 🏠 **Property Listings:** Display available properties with images, descriptions, and pricing.
+- 📅 **Booking System:** Users can book a property, select dates, and view booking details.
+- 📩 **Booking Confirmation:** After successful booking, users receive a confirmation email.
+
+---
+
+### 🛡️ Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements describe **how** the system performs rather than what it does. They cover quality attributes like speed, scalability, security, and usability.
+
+**Examples for Booking Management System:**
+- ⚡ **Performance:** The system should load search results within 2 seconds.
+- 🔒 **Security:** User data must be encrypted, and the system should protect against common vulnerabilities like SQL injection.
+- 📈 **Scalability:** The system must support up to 10,000 users simultaneously during peak usage.
+- 🧭 **Usability:** The UI should be intuitive, responsive, and mobile-friendly.
+- 🕒 **Reliability:** System uptime must be 99.9%, with fast recovery during outages.
+
+---
+
